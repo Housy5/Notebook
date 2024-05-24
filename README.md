@@ -1,3 +1,6 @@
+![alt text](https://github.com/Housy5/Notebook/blob/Main/Notebook_Screenshot.png?raw=true)
+<br>
+<hr>
 Image attribution:
 <br>
 <a href="https://www.flaticon.com/free-icons/writing" title="writing icons">Writing icons created by Smashicons - Flaticon</a>
