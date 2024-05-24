@@ -1,4 +1,4 @@
-![alt text](https://github.com/Housy5/Notebook/blob/Main/Notebook_Screenshot.png?raw=true)
+!(https://github.com/Housy5/Notebook/blob/Main/Notebook_Screenshot.png?raw=true)
 <br>
 <hr>
 Image attribution:
