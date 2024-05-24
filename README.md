@@ -1,4 +1,4 @@
-!(https://github.com/Housy5/Notebook/blob/Main/Notebook_Screenshot.png?raw=true)
+![plot] (Notebook_Screenshot.png)
 <br>
 <hr>
 Image attribution:
